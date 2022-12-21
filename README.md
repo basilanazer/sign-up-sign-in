@@ -1,6 +1,7 @@
 
-  # login page
-
+  # Sign-up/Sign-in Page
+  A simple web page for Sign-up and login with html, css, javascript and react 
+  ## To run in your device
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">node js</a></code>
 
   To preview and run the project on your device:
