@@ -1,6 +1,16 @@
 
   # Sign-up/Sign-in Page
   A simple web page for Sign-up and login with html, css, javascript and react 
+  ## Technology used
+  * figma
+  * locofy.ai
+ ## Language used
+ * html
+ * css
+ * JavaScript
+ ## Screenshots
+ 
+
   ## To run in your device
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">node js</a></code>
 
