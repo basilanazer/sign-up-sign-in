@@ -1,0 +1,181 @@
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1200px;
+  height: 600px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 109px;
+  left: 252px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-200);
+  width: 296px;
+  height: 381px;
+}
+.rectangleButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  top: 359px;
+  left: 274px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset, 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 253px;
+}
+.rectangleButton,
+.rectangleButton1,
+.rectangleDiv1,
+.rectangleDiv2,
+.rectangleInput {
+  position: absolute;
+  background-color: var(--color-gray-100);
+  height: 40px;
+}
+.rectangleButton1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  top: 300px;
+  left: 308px;
+  width: 219px;
+}
+.rectangleDiv1,
+.rectangleDiv2,
+.rectangleInput {
+  top: 230px;
+}
+.rectangleInput {
+  border: 0;
+  left: 308px;
+  width: 219px;
+}
+.rectangleDiv1,
+.rectangleDiv2 {
+  left: 274px;
+  width: 37px;
+}
+.rectangleDiv2 {
+  top: 300px;
+}
+.lOGIN1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.lOGIN,
+.password,
+.username {
+  position: absolute;
+  display: inline-block;
+}
+.lOGIN {
+  top: 370px;
+  left: 367px;
+  font-size: var(--font-size-lg);
+  font-weight: 300;
+  color: var(--color-indigo-100);
+  width: 67px;
+  height: 23px;
+  cursor: pointer;
+}
+.password,
+.username {
+  top: 207px;
+  left: 274px;
+  font-weight: 200;
+  width: 74px;
+  height: 18px;
+}
+.password {
+  top: 274px;
+  width: 68px;
+  height: 19px;
+}
+.iconLock,
+.iconUser {
+  position: absolute;
+  height: 3.14%;
+  width: 1.56%;
+  top: 51.5%;
+  right: 62.56%;
+  bottom: 45.36%;
+  left: 35.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconUser {
+  height: 2.84%;
+  width: 1.6%;
+  top: 40.17%;
+  right: 62.77%;
+  bottom: 57%;
+  left: 35.63%;
+}
+.forgotPassword,
+.welcome {
+  position: absolute;
+  top: 155px;
+  left: 322px;
+  font-size: 32px;
+  font-weight: 800;
+  display: inline-block;
+  width: 155px;
+  height: 37px;
+}
+.forgotPassword {
+  top: 408px;
+  left: 441px;
+  font-size: 11px;
+  font-weight: 200;
+  width: 92px;
+  height: 16px;
+}
+.lineIcon {
+  position: absolute;
+  top: 422px;
+  left: 440px;
+  width: 84.81px;
+  height: 1.64px;
+}
+.newUser,
+.sIGNUPHERE {
+  position: absolute;
+  font-weight: 200;
+  display: inline-block;
+  height: 16px;
+}
+.newUser {
+  top: 450px;
+  left: 322px;
+  font-size: var(--font-size-sm);
+  width: 78px;
+}
+.sIGNUPHERE {
+  top: 451px;
+  left: 400px;
+  font-size: 12px;
+  width: 102px;
+  cursor: pointer;
+}
+.lineDiv {
+  position: absolute;
+  top: 465.5px;
+  left: 400.5px;
+  border-top: 1px solid snow;
+  box-sizing: border-box;
+  width: 82px;
+  height: 1px;
+}
+.login {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

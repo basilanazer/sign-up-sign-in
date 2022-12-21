@@ -1,0 +1,198 @@
+.rectangleDiv {
+  position: absolute;
+  top: 100px;
+  left: 429px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-200);
+  width: 326px;
+  height: 386px;
+}
+.rectangleButton,
+.rectangleInput,
+.rectangleInput1 {
+  border: 0;
+  background-color: var(--color-gray-100);
+  position: absolute;
+}
+.rectangleButton {
+  cursor: pointer;
+  padding: 0;
+  top: 371px;
+  left: 452px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset, 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 279px;
+  height: 40px;
+}
+.rectangleInput,
+.rectangleInput1 {
+  top: 297px;
+  left: 488px;
+  width: 243px;
+  height: 41px;
+}
+.rectangleInput1 {
+  top: 219px;
+  width: 244px;
+  height: 40px;
+}
+.rectangleDiv1,
+.rectangleDiv2,
+.rectangleDiv3,
+.rectangleInput2 {
+  position: absolute;
+  top: 144px;
+  background-color: var(--color-gray-100);
+  height: 41px;
+}
+.rectangleInput2 {
+  border: 0;
+  left: 488px;
+  width: 244px;
+}
+.rectangleDiv1,
+.rectangleDiv2,
+.rectangleDiv3 {
+  left: 452px;
+  width: 36px;
+}
+.rectangleDiv2,
+.rectangleDiv3 {
+  top: 297px;
+}
+.rectangleDiv3 {
+  top: 219px;
+}
+.cREATEACCOUNT {
+  position: absolute;
+  top: 382px;
+  left: 527px;
+  font-weight: 300;
+  color: var(--color-indigo-100);
+  display: inline-block;
+  width: 153px;
+  height: 18px;
+  cursor: pointer;
+}
+.welcome {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.welcomeToTheWorldOf {
+  position: absolute;
+  top: 103px;
+  left: 48px;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+  color: #ce00d2;
+  display: inline-block;
+  width: 325px;
+  height: 229px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.alreadyHaveAnAccount,
+.lOGINHERE {
+  position: absolute;
+  top: 442px;
+  left: 474px;
+  font-size: var(--font-size-sm);
+  font-weight: 200;
+  display: inline-block;
+  width: 163px;
+  height: 15px;
+}
+.lOGINHERE {
+  left: 632px;
+  width: 91px;
+  cursor: pointer;
+}
+.lineIcon,
+.programing {
+  position: absolute;
+  top: 456px;
+  left: 640.99px;
+  width: 73.01px;
+  height: 1.64px;
+}
+.programing {
+  top: 330px;
+  left: 48px;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+  color: #8819cc;
+  display: inline-block;
+  width: 381px;
+  height: 75px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.email,
+.password,
+.username {
+  position: absolute;
+  top: 121px;
+  left: 452px;
+  font-weight: 200;
+  display: inline-block;
+  width: 89px;
+  height: 18px;
+}
+.email,
+.password {
+  top: 271px;
+  width: 86px;
+  height: 19px;
+}
+.email {
+  top: 192px;
+  left: 453px;
+  width: 48px;
+  height: 18px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 405px;
+  left: 104px;
+  width: 214px;
+  height: 161px;
+  object-fit: cover;
+}
+.iconEmail,
+.iconLock,
+.iconUser {
+  position: absolute;
+  height: 3.18%;
+  width: 1.72%;
+  top: 51%;
+  right: 40.4%;
+  bottom: 45.82%;
+  left: 57.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconEmail,
+.iconUser {
+  height: 2.87%;
+  width: 1.77%;
+  top: 26%;
+  right: 40.36%;
+  bottom: 71.13%;
+}
+.iconEmail {
+  height: 2.48%;
+  width: 1.95%;
+  top: 38.67%;
+  right: 40.17%;
+  bottom: 58.85%;
+}
+.signIn {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+  mix-blend-mode: normal;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

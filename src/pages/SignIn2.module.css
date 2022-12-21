@@ -1,0 +1,55 @@
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1200px;
+  height: 600px;
+  object-fit: cover;
+}
+.signingUp,
+.thankYouFor {
+  position: absolute;
+  top: 229px;
+  left: 263px;
+  font-weight: 800;
+  display: inline-block;
+}
+.signingUp {
+  top: 277px;
+  left: 228px;
+  font-size: var(--font-size-xl);
+  background: linear-gradient(180deg, #0500ff, #f01de8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.logOut,
+.rectangleDiv {
+  position: absolute;
+  top: 552px;
+}
+.rectangleDiv {
+  left: 704px;
+  background-color: #d9d9d9;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 77px;
+  height: 24px;
+}
+.logOut {
+  left: 711px;
+  font-size: var(--font-size-lg);
+  font-weight: 200;
+  color: var(--color-black);
+  display: inline-block;
+  cursor: pointer;
+}
+.signIn2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 40px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
