@@ -9,7 +9,7 @@
  * css
  * JavaScript
  ## Screenshots
- 
+ <img width="508" alt="image" src="https://user-images.githubusercontent.com/119029240/208995681-2955cde0-cfd9-4c3f-9682-08da745e15e2.png">
 
   ## To run in your device
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">node js</a></code>
