@@ -1,7 +1,7 @@
 
   # Sign-up/Sign-in Page
   A simple web page for Sign-up and login with html, css, javascript and react 
-  ## Technology used
+  ## Tools used
   * figma
   * locofy.ai
  ## Language used
